@@ -1,2 +1,2 @@
 # BuchstabenInvertieren
-This is a very simple code that takes words and inverts their order. Very first code with Java.
+This is a very simple code that takes words and convert each character from lower case to upper case, and vice-versa.
